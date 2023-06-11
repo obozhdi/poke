@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "rambahamba",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/obozhdi/rambahamba",
+      "state" : {
+        "branch" : "master",
+        "revision" : "5d2830452587f96bb97d7b49008dcc13783fbaeb"
+      }
+    }
+  ],
+  "version" : 2
+}
